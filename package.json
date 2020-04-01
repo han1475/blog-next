@@ -4,7 +4,7 @@
   "description": "blog based Next.js",
   "main": "pages/index.js",
   "dependencies": {
-    "next": "^4.2.1",
+    "next": "^9.3.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
